@@ -1,0 +1,15 @@
+{
+    "parent": "block/grass",
+    "textures": {
+        "particle": "blocks/dirt/0",
+        "bottom": "blocks/dirt/0",
+        "top": "blocks/grass_top/0",
+        "side": "blocks/grass_side",
+        "overlay80": "blocks/grass_side_overlay_80",
+        "overlay60": "blocks/grass_side_overlay_60",
+        "ctm_top_left":"blocks/grass_ctm_top_left",
+        "ctm_top_right":"blocks/grass_ctm_top_right",
+        "ctm_top_top":"blocks/grass_ctm_top_top",
+        "ctm_top_bottom":"blocks/grass_ctm_top_bottom"
+    }
+}

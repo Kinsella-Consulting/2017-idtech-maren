@@ -1,0 +1,27 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "dirt/0" ,"weight": 1},
+            { "model": "dirt/1" ,"weight": 1},
+            { "model": "dirt/2" ,"weight": 1},
+            { "model": "dirt/3" ,"weight": 1},
+            { "model": "dirt/4" ,"weight": 1},
+            { "model": "dirt/5" ,"weight": 1},
+            { "model": "dirt/6" ,"weight": 1},
+            { "model": "dirt/7" ,"weight": 1},
+            { "model": "dirt/8" ,"weight": 1},
+            { "model": "dirt/9" ,"weight": 1},
+            { "model": "dirt/10" ,"weight": 1},
+            { "model": "dirt/11" ,"weight": 1},
+            { "model": "dirt/12" ,"weight": 1},
+            { "model": "dirt/13" ,"weight": 1},
+            { "model": "dirt/14" ,"weight": 1},
+            { "model": "dirt/15" ,"weight": 1},
+            { "model": "dirt/16" ,"weight": 1},
+            { "model": "dirt/17" ,"weight": 1},
+            { "model": "dirt/18" ,"weight": 1}
+
+
+        ]
+    }
+}

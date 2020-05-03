@@ -1,0 +1,6 @@
+{
+    "parent": "block/plate_rail_flat",
+    "textures": {
+        "rail": "blocks/rail_detector"
+    }
+}

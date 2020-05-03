@@ -1,0 +1,26 @@
+{
+    "variants": {
+        "snowy=false": [
+        	{ "model": "podzol/0" },
+        	{ "model": "podzol/1" },
+        	{ "model": "podzol/2" },
+        	{ "model": "podzol/3" },
+        	{ "model": "podzol/4" },
+        	{ "model": "podzol/5" },
+        	{ "model": "podzol/6" },
+        	{ "model": "podzol/7" },
+        	{ "model": "podzol/8" },
+        	{ "model": "podzol/9" },
+        	{ "model": "podzol/10" },
+        	{ "model": "podzol/11" },
+        	{ "model": "podzol/12" },
+        	{ "model": "podzol/13" },
+        	{ "model": "podzol/14" },
+        	{ "model": "podzol/15" },
+        	{ "model": "podzol/16" },
+        	{ "model": "podzol/17" },
+        	{ "model": "podzol/18" }
+        ],
+        "snowy=true": { "model": "grass_snowed" }
+    }
+}

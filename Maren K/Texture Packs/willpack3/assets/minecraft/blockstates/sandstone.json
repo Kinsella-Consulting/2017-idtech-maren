@@ -1,0 +1,26 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "sandstone_normal/0" ,"weight": 1},
+            { "model": "sandstone_normal/1" ,"weight": 1},
+            { "model": "sandstone_normal/2" ,"weight": 1},
+            { "model": "sandstone_normal/3" ,"weight": 1},
+            { "model": "sandstone_normal/4" ,"weight": 1},
+            { "model": "sandstone_normal/5" ,"weight": 1},
+            { "model": "sandstone_normal/6" ,"weight": 1},
+            { "model": "sandstone_normal/7" ,"weight": 1},
+            { "model": "sandstone_normal/8" ,"weight": 1},
+            { "model": "sandstone_normal/9" ,"weight": 1},
+            { "model": "sandstone_normal/10" ,"weight": 1},
+            { "model": "sandstone_normal/11" ,"weight": 1},
+            { "model": "sandstone_normal/12" ,"weight": 1},
+            { "model": "sandstone_normal/13" ,"weight": 1},
+            { "model": "sandstone_normal/14" ,"weight": 1},
+            { "model": "sandstone_normal/15" ,"weight": 1},
+            { "model": "sandstone_normal/16" ,"weight": 1},
+            { "model": "sandstone_normal/17" ,"weight": 1}
+
+
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "stone/0" ,"weight": 1},
+            { "model": "stone/1" ,"weight": 5},
+            { "model": "stone/2" ,"weight": 1},
+            { "model": "stone/3" ,"weight": 1},
+            //{ "model": "stone/4" ,"weight": 1},
+            { "model": "stone/5" ,"weight": 1},
+            { "model": "stone/6" ,"weight": 1},
+            { "model": "stone/7" ,"weight": 1},
+            { "model": "stone/8" ,"weight": 1},
+            { "model": "stone/9" ,"weight": 1},
+            { "model": "stone/10" ,"weight": 1},
+            { "model": "stone/11" ,"weight": 1},
+            { "model": "stone/12" ,"weight": 1},
+            { "model": "stone/13" ,"weight": 1},
+            { "model": "stone/14" ,"weight": 1},
+            { "model": "stone/15" ,"weight": 1}
+
+        ]
+    }
+}

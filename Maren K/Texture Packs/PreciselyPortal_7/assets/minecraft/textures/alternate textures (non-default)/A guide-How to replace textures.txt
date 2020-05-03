@@ -1,0 +1,17 @@
+TO REPLACE TEXTURES:
+
+1. Copy the desired files in the "alternates" folder.
+2. Paste textures over existing files in the official "textures" folder.
+   (block items go in the "blocks" folder, items go in "items")
+
+
+
+MISC
+
+-If you want one of the alternates to be a different texture than what it is named, simply 
+change the name of the file to match the texture you will be replacing.
+
+-If the name has _alt in it, you will need to delete this part before copying the file over.
+
+-If you are copying over anything animated, you will need to ALSO copy over the .mcmeta text 
+file.

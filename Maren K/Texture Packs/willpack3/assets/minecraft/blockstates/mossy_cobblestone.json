@@ -1,0 +1,26 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "cobblestone_mossy/0" ,"weight": 1},
+            { "model": "cobblestone_mossy/1" ,"weight": 1},
+            { "model": "cobblestone_mossy/2" ,"weight": 1},
+            { "model": "cobblestone_mossy/3" ,"weight": 1},
+            { "model": "cobblestone_mossy/4" ,"weight": 1},
+            { "model": "cobblestone_mossy/5" ,"weight": 1},
+            { "model": "cobblestone_mossy/6" ,"weight": 1},
+            { "model": "cobblestone_mossy/7" ,"weight": 1},
+            { "model": "cobblestone_mossy/8" ,"weight": 1},
+            { "model": "cobblestone_mossy/9" ,"weight": 1},
+            { "model": "cobblestone_mossy/10" ,"weight": 1},
+            { "model": "cobblestone_mossy/11" ,"weight": 1},
+            { "model": "cobblestone_mossy/12" ,"weight": 1},
+            { "model": "cobblestone_mossy/13" ,"weight": 1},
+            { "model": "cobblestone_mossy/14" ,"weight": 1},
+            { "model": "cobblestone_mossy/15" ,"weight": 1},
+            { "model": "cobblestone_mossy/16" ,"weight": 1},
+            { "model": "cobblestone_mossy/17" ,"weight": 1}
+
+
+        ]
+    }
+}

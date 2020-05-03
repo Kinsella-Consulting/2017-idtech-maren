@@ -1,0 +1,6 @@
+{
+    "parent": "block/plate_rail_raised_ne",
+    "textures": {
+        "rail": "blocks/rail_detector_powered"
+    }
+}

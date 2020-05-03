@@ -1,0 +1,167 @@
+{
+  "animation": {
+    "frames": [
+      {
+        "index": 0,
+        "time": 13
+      },
+      {
+        "index": 5,
+        "time": 30
+      },
+      4,
+      {
+        "index": 3,
+        "time": 13
+      },
+      {
+        "index": 9,
+        "time": 30
+      },
+      0,
+      {
+        "index": 5,
+        "time": 30
+      },
+      {
+        "index": 1,
+        "time": 30
+      },
+      5,
+      22,
+      {
+        "index": 23,
+        "time": 10
+      },
+      {
+        "index": 24,
+        "time": 2
+      },
+      {
+        "index": 25,
+        "time": 10
+      },
+      26,
+      {
+        "index": 27,
+        "time": 10
+      },
+      28,
+      {
+        "index": 29,
+        "time": 10
+      },
+      {
+        "index": 30,
+        "time": 2
+      },
+      31,
+      {
+        "index": 32,
+        "time": 10
+      },
+      {
+        "index": 7,
+        "time": 10
+      },
+      {
+        "index": 0,
+        "time": 2
+      },
+      {
+        "index": 3,
+        "time": 25
+      },
+      {
+        "index": 2,
+        "time": 13
+      },
+      0,
+      {
+        "index": 5,
+        "time": 30
+      },
+      6,
+      {
+        "index": 7,
+        "time": 30
+      },
+      {
+        "index": 8,
+        "time": 13
+      },
+      {
+        "index": 0,
+        "time": 13
+      },
+      11,
+      12,
+      13,
+      {
+        "index": 14,
+        "time": 2
+      },
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      {
+        "index": 0,
+        "time": 5
+      },
+      {
+        "index": 2,
+        "time": 30
+      },
+      0,
+      {
+        "index": 7,
+        "time": 15
+      },
+      {
+        "index": 32,
+        "time": 10
+      },
+      31,
+      {
+        "index": 30,
+        "time": 2
+      },
+      {
+        "index": 29,
+        "time": 10
+      },
+      28,
+      {
+        "index": 27,
+        "time": 10
+      },
+      26,
+      {
+        "index": 25,
+        "time": 10
+      },
+      {
+        "index": 24,
+        "time": 2
+      },
+      23,
+      {
+        "index": 22,
+        "time": 10
+      },
+      5,
+      {
+        "index": 0,
+        "time": 2
+      },
+      {
+        "index": 9,
+        "time": 30
+      }
+    ]
+  }
+}
